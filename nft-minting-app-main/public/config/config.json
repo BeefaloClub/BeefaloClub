@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3e32cda0bd920bc0e7b7610ee90b6039b31764b32be383134d3e54c7ee8623e0",
+  "SCAN_LINK": "https://polygonscan.com/tx/0x3e32cda0bd920bc0e7b7610ee90b6039b31764b32be383134d3e54c7ee8623e0",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "BeefaloClub",
+  "SYMBOL": "BEE",
+  "MAX_SUPPLY": 1500,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/beefalo-club",
+  "SHOW_BACKGROUND": true
+}
